@@ -1,1 +1,1 @@
-# zentcash-nodes-list
+# Zent Cash Nodes List
